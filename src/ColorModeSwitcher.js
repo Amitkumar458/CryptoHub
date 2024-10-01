@@ -16,7 +16,7 @@ const ColorModeSwitcher = props => {
       background={'blackAlpha.300'}
       borderRadius={'full'}
       onClick={toggleColorMode}
-      icon={<SwitchIcon />}
+      icon={<SwitchIcon/>}
       {...props}
     />
   );
