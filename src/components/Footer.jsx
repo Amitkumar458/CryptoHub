@@ -49,15 +49,15 @@ import {
           spacing={2}
           justify={{ base: 'center', md: 'center' }}
           align={{ base: 'center', md: 'center' }}>
-          <Text>{"</> & Develop By ❤️ Amit."}</Text>
+          <Text>{"</> & Develop By ❤️ Aditya."}</Text>
           <Stack direction={'row'} spacing={3}>
-            <SocialButton target='_blank' href={'https://www.linkedin.com/in/amit-kumar-47838722b/'}>
+            <SocialButton target='_blank' href={'www.linkedin.com/in/aditya-raj-88830b299'}>
               <FaLinkedin />
             </SocialButton>
-            <SocialButton href={'https://www.instagram.com/amit.kumar3998/'}>
+            <SocialButton target='_blank' href={'https://www.instagram.com/yadv_aadi/'}>
               <FaInstagram />
             </SocialButton>
-            <SocialButton href={'#'}>
+            <SocialButton target='_blank' href={'https://www.youtube.com'}>
               <FaYoutube />
             </SocialButton>
           </Stack>

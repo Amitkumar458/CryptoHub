@@ -91,9 +91,9 @@ const Boxes = () => {
     >
       <Stack spacing={'0'}>
         <CardBody>
-          <Heading size={'md'}>$1.25 Trillion Marker Cap</Heading>
+          <Heading size={'md'}>$3.04 Trillion Marker Cap</Heading>
           <Text py='1'>
-            The global cryptocurrency market cap today is $1.25 Trillion. The current market cap of Bitcoin is more than $500 Billion.
+            The global cryptocurrency market cap today is $3.04 Trillion. The current market cap of Bitcoin is more than $500 Billion.
           </Text>
         </CardBody>
         <CardBody>
